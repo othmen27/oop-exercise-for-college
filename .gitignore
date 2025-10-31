@@ -51,3 +51,4 @@ build/
 *.html
 *.txt
 test.java
+*.pdf
